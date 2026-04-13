@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://github.com/user-attachments/assets/f6d706b7-80c0-4318-ac81-0ac69cb9b655" />
+  <img align="center" height="150" src="https://github.com/user-attachments/assets/c02ee46b-99fc-4857-983f-78243b2fcba8" />
 </div>
 
 <div align="center">
@@ -41,9 +41,7 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>
-<div align="center">
-  <img align="center" height="150" src="https://github.com/user-attachments/assets/f6d706b7-80c0-4318-ac81-0ac69cb9b655" />
-</div>
+
 <br>
 <br>
 
