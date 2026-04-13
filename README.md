@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <b>`プ ロ グ ラ マ`</b>
+  <b>`FullStack`</b>
   <samp>
       <br>
       Hi there! I'm <b>Ana Carolina</b>
