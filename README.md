@@ -40,10 +40,10 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-
-  
 </div>
-
+<div align="center">
+  <img align="center" height="150" src="https://github.com/user-attachments/assets/f6d706b7-80c0-4318-ac81-0ac69cb9b655" />
+</div>
 <br>
 <br>
 
